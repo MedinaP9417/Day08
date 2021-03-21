@@ -1,11 +1,12 @@
 // Write code below this line
-function converTotal(str) {
+function convertToInt(str) {
     return parseInt(str, 16);
 }
-convertStrToInt("BA");
-console.log(convertStrToInt("BA"));
-console.log(convertStrToInt("F1"));
-console.log(convertStrToInt("JeffBezos"));
+convertToInt("BA");
+
+console.log(convertToInt("BA"));
+console.log(convertToInt("F1"));
+console.log(convertToInt("JeffBezos"));
 
 // Write code above this line
-modul.exports = convertStrToInt;
+modul.exports = convertToInt;

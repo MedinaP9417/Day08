@@ -12,11 +12,10 @@ function addFive() {
     console.log(sum);
 }
 
-addThree();
-addFive();
+return addThree();
+return addFive();
 
 // Only change code above this line
-
 
 module.exports = {
     addThree,

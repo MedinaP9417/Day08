@@ -6,8 +6,8 @@ function convertStrToInt(str) {
 convertStrToInt("44");
 
 
-console.log(convertStrToIntn("44"));
-console.log(convertStrToIntn("27"));
-console.log(convertStrToIntn("JeffBezos"));
+console.log(convertStrToInt("44"));
+console.log(convertStrToInt("27"));
+console.log(convertStrToInt("JeffBezos"));
 // Only change code above this line
 module.exports = convertStrToInt;

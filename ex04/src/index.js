@@ -1,12 +1,10 @@
 // Only change code below this line
 function localScope() {
-    myVariable = "I am here!";
     var myVariable = "I am here!";
     console.log(myVariable);
 }
 
-localScope();
-
+return localScope();
 
 // Only change code above this line
 
