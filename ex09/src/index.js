@@ -8,11 +8,13 @@ function isLess(a, b) {
         // Only change code above this line
     } else {
         // Only change code below this line
-        return a === b;
+        return false;
         // Only change code above this line
     }
     // Only change code below this line
+    isLess(a, b);
 }
+
 console.log(isLess(10, 15));
 console.log(isLess(15, 10));
 // Only change code above this line

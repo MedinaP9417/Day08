@@ -9,4 +9,4 @@ console.log(convertToInt("F1"));
 console.log(convertToInt("JeffBezos"));
 
 // Write code above this line
-modul.exports = convertToInt;
+module.exports = convertToInt;

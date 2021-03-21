@@ -12,8 +12,8 @@ function addFive() {
     console.log(sum);
 }
 
-return addThree();
-return addFive();
+addThree();
+addFive();
 
 // Only change code above this line
 
