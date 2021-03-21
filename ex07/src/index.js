@@ -6,7 +6,6 @@ function addThree() {
     console.log(sum);
 }
 
-
 function addFive() {
     sum = sum + 5;
     console.log(sum);
